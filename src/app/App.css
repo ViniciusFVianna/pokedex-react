@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  align-items: center;
+  min-width: max-content;
+  min-height: max-content;
+}
+
+.App-link {
+  color: #61dafb;
+}
