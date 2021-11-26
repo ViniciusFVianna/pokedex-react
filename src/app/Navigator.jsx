@@ -18,7 +18,7 @@ const Navigator = () =>{
     return (
         <Router history={history}>
             <Switch>
-                <Route path={LOGIN} componet={Login}/>
+                <Route path={INICIO} componet={Login}/>
             </Switch>
         </Router>
     );
